@@ -6,7 +6,7 @@
 * [ebpf](kernel/ebpf/README.md)
   * [Page 2](kernel/ebpf/page-2.md)
   * [Page 2](kernel/ebpf/page-2-1.md)
-* [memary](kernel/memary.md)
+* [memory](kernel/memary.md)
 
 ## net
 
