@@ -9,7 +9,8 @@
 * [memory](kernel/memary/README.md)
   * [我的空间](kernel/memary/wo-de-kong-jian.md)
 * [Page 3](kernel/page-3.md)
-* [storage](kernel/storage.md)
+* [storage](kernel/storage/README.md)
+  * [磁盘disk](kernel/storage/ci-pan-disk.md)
 
 ## net
 
