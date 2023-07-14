@@ -4,8 +4,8 @@
 
 * [net](README.md)
 * [ebpf](kernel/ebpf/README.md)
-  * [XDP](kernel/ebpf/xdp.md)
-  * [Page 2](kernel/ebpf/page-2.md)
+  * [XDP](kernel/ebpf/page-2.md)
+  * [kprobe](kernel/ebpf/kprobe.md)
 * [memory](kernel/memary/README.md)
   * [我的空间](kernel/memary/wo-de-kong-jian.md)
 * [Page 3](kernel/page-3.md)
