@@ -11,6 +11,10 @@
 * [Page 3](kernel/page-3.md)
 * [storage](kernel/storage/README.md)
   * [磁盘disk](kernel/storage/ci-pan-disk.md)
+* [Program Language](kernel/program-language/README.md)
+  * [Rust](kernel/program-language/rust/README.md)
+    * [Page 4](kernel/program-language/rust/page-4.md)
+    * [官网链接](https://www.rust-lang.org/)
 
 ## net
 
