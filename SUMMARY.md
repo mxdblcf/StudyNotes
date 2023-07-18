@@ -3,6 +3,7 @@
 ## kernel
 
 * [net](README.md)
+  * [图示](kernel/readme/tu-shi.md)
 * [ebpf](kernel/ebpf/README.md)
   * [XDP](kernel/ebpf/page-2.md)
   * [kprobe](kernel/ebpf/kprobe.md)
