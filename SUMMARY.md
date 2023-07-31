@@ -5,7 +5,7 @@
 * [net](README.md)
   * [TCP](linux\_kernel/readme/tcp.md)
   * [图示](linux\_kernel/readme/tu-shi.md)
-  * [HTTP](linux\_kernel/readme/http.md)
+  * [HTTP](net/http.md)
   * [UDP](linux\_kernel/readme/udp.md)
 * [ebpf](linux\_kernel/ebpf/README.md)
   * [XDP](linux\_kernel/ebpf/page-2.md)
@@ -43,5 +43,5 @@
 ## Program Language
 
 * [Rust](program-language/rust/README.md)
-  * [Cargo](program-language/rust/page-4.md)
+  * [Cargo的使用](program-language/rust/page-4.md)
   * [Page 2](program-language/rust/page-2.md)
