@@ -1,27 +1,6 @@
 # git
 
-## Git
-
-### Exercises
-
-| Name              | Topic  | Objective & Instructions | Solution | Comments |
-| ----------------- | ------ | ------------------------ | -------- | -------- |
-| My first Commit   | Commit | Exercise                 | Solution |          |
-| Time to Branch    | Branch | Exercise                 | Solution |          |
-| Squashing Commits | Commit | Exercise                 | Solution |          |
-
-### Questions
-
 #### Git Basics
-
-<details>
-
-<summary>How do you know if a certain directory is a git repository?</summary>
-
-\
-You can check if there is a ".git" directory.
-
-</details>
 
 <details>
 
@@ -162,7 +141,7 @@ Finally, with certain build systems, you can know which files are being used/rel
 * Trunk based development
 * GitLab flow
 
-[Explanation](https://www.bmc.com/blogs/devops-branching-strategies/).
+[Eplanation](https://www.bmc.com/blogs/devops-branching-strategies/).
 
 </details>
 
