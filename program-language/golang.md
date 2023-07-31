@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/golang.png
-coverY: 0
+coverY: 135.14666666666668
 ---
 
 # Golang
