@@ -36,3 +36,7 @@
 * [Rust](program-language/rust/README.md)
   * [Cargo的使用](program-language/rust/page-4.md)
 * [Golang](program-language/golang.md)
+
+## 技能
+
+* [git](ji-neng/git.md)
