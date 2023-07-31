@@ -1,13 +1,15 @@
-# Cargo
+# Cargo的使用
 
 ## Rust 项目使用 Cargo 管理
+
+简单项目rustc编译就行，大项目需要用到不同依赖，所以要用包管理
 
 ### 创建新项目
 
 使用 `cargo new` 命令创建一个新的 Rust 项目：
 
 ```
-$ cargo new hello_world
+cargo new hello_world
 ```
 
 这将创建一个名为 `hello_world` 的新项目，其中包括一个 `Cargo.toml` 文件和一个 `src` 目录，其中包含一个 `main.rs` 文件。
@@ -28,7 +30,7 @@ rand = "0.8.4"
 要构建项目，只需在项目根目录下运行 `cargo build` 命令：
 
 ```
-$ cargo build
+cargo build
 ```
 
 这将会编译项目并生成可执行文件。可执行文件在 `target/debug` 目录下生成。
@@ -38,17 +40,30 @@ $ cargo build
 要运行项目，只需在项目根目录下运行 `cargo run` 命令：
 
 ```
-$ cargo run
+ cargo run
 ```
 
 这将编译并运行项目，输出结果将会在终端中显示。
+
+### 把库发布到crates.io
+
+```
+ cargo publish
+```
+
+### 生成文档、测试
+
+```
+ cargo doc
+ cargo test
+```
 
 ### 发布项目
 
 要发布项目，只需在项目根目录下运行 `cargo build --release` 命令：
 
 ```
-$ cargo build --release
+cargo build --release
 ```
 
 这将会生成一个优化后的可执行文件，该文件在 `target/release` 目录下生成。该可执行文件可以传递给其他人使用，无需安装 Rust 或 Cargo。
