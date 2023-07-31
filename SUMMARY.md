@@ -35,5 +35,4 @@
 * [C/C++](program-language/c-c++.md)
 * [Rust](program-language/rust/README.md)
   * [Cargo的使用](program-language/rust/page-4.md)
-  * [Page 2](program-language/rust/page-2.md)
 * [Golang](program-language/golang.md)
