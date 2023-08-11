@@ -225,7 +225,7 @@ A --> User: Done;
 deactivate A;
 @enduml
 '>
-
+123
 <img src='https://g.gravizo.com/svg?
   digraph G {
     aize ="4,4";
@@ -243,23 +243,3 @@ deactivate A;
     execute -> compare;
   }
 '>
-dsd
-![Alt text](<https://g.gravizo.com/svg?
-  digraph G {
-    size ="4,4";
-    main [shape=box];
-    main -> parse [weight=8];
-    parse -> execute;
-    main -> init [style=dotted];
-    main -> cleanup;
-    execute -> { make_string; printf}
-    init -> make_string;
-    edge [color=red];
-    main -> printf [style=bold,label="100 times"];
-    make_string [label="make a string"];
-    node [shape=box,style=filled,color=".7 .3 1.0"];
-    execute -> compare;
-  }>)
-
-![这是一个图片](<https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpkDBZFGEi4iSfHL3u12G%2Fuploads%2FQy4DGU4ePjLp69i3oAbW%2Fgolang.png?alt=media&token=1359ced5-7841-4f93-b554-39dc5b81dfee>)
-
