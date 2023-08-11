@@ -41,5 +41,4 @@
 
 ## 技能
 
-* [markdown2](ji-neng/markdown2.md)
 * [git](ji-neng/git.md)
