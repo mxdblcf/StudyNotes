@@ -88,7 +88,11 @@ The purpose of `gitignore` files is to ensure that certain files not tracked by 
 
 </details>
 
-#### Scenarios
+## 基本的git 流程图
+
+<figure><img src="../.gitbook/assets/git基本流程.excalidraw.svg" alt=""><figcaption><p>git flow</p></figcaption></figure>
+
+####
 
 <details>
 
