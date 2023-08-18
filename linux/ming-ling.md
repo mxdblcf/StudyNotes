@@ -22,3 +22,12 @@ du
 ```sh
  free -m
 ```
+
+```bash
+// 这样也能
+vmstat -S M
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 1  0      0   6000      3    797    0    0    69    93  228  291  1  1 98  1  0
+
+```
