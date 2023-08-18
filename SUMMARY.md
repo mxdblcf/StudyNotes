@@ -2,7 +2,8 @@
 
 ## linux
 
-* [kernel](README.md)
+* [Page](README.md)
+* [kernel](<README (1).md>)
   * [net](linux/kernel/readme/README.md)
     * [TCP](linux/kernel/readme/tcp.md)
     * [图示](linux/kernel/readme/tu-shi.md)
@@ -27,6 +28,7 @@
       * [网络](linux/yun-ji-suan/rong-qi/k8s/wang-luo.md)
       * [存储](linux/yun-ji-suan/rong-qi/k8s/cun-chu.md)
       * [调度](linux/yun-ji-suan/rong-qi/k8s/tiao-du.md)
+* [命令](linux/ming-ling.md)
 
 ## database
 
