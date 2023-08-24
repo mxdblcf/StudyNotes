@@ -43,6 +43,7 @@
 
 ## 技能
 
+* [遇到的一些有趣的DIY](ji-neng/yu-dao-de-yi-xie-you-qu-de-diy.md)
 * [Markdown模板](ji-neng/markdown-mo-ban.md)
 * [git](ji-neng/git.md)
 
