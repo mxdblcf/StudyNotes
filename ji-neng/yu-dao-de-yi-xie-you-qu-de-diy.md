@@ -8,4 +8,4 @@
 
 ## 智能家居开源软件 <a href="#https-baidu.com" id="https-baidu.com"></a>
 
-\[calibre-web]\(https://github.com/janeczku/calibre-web)
+[home-assistant](https://www.home-assistant.io/)
