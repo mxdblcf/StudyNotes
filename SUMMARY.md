@@ -18,6 +18,7 @@
     * [文件系统](linux/kernel/storage/wen-jian-xi-tong/README.md)
       * [ZFS](linux/kernel/storage/wen-jian-xi-tong/zfs.md)
     * [磁盘disk](linux/kernel/storage/ci-pan-disk.md)
+  * [Linux Command](linux/readme-1/ming-ling.md)
 * [云计算](linux/yun-ji-suan/README.md)
   * [CDN](linux/yun-ji-suan/cdn.md)
   * [对象存储](linux/yun-ji-suan/dui-xiang-cun-chu.md)
@@ -29,7 +30,6 @@
       * [网络](linux/yun-ji-suan/rong-qi/k8s/wang-luo.md)
       * [存储](linux/yun-ji-suan/rong-qi/k8s/cun-chu.md)
       * [调度](linux/yun-ji-suan/rong-qi/k8s/tiao-du.md)
-* [命令](linux/ming-ling.md)
 
 ## database
 
