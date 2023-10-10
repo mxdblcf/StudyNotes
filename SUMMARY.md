@@ -2,13 +2,13 @@
 
 ## linux
 
-* [Page](README.md)
+* [network](README.md)
+  * [TCP](linux/readme/tcp.md)
+  * [图示](linux/readme/tu-shi.md)
+  * [HTTP](linux/readme/http.md)
+  * [UDP](linux/readme/udp.md)
+  * [Linux网络排查工具](linux/readme/linux-wang-luo-pai-cha-gong-ju.md)
 * [kernel](<README (1).md>)
-  * [net](linux/kernel/readme/README.md)
-    * [TCP](linux/kernel/readme/tcp.md)
-    * [图示](linux/kernel/readme/tu-shi.md)
-    * [HTTP](linux/kernel/readme/http.md)
-    * [UDP](linux/kernel/readme/udp.md)
   * [ebpf](linux/kernel/ebpf/README.md)
     * [XDP](linux/kernel/ebpf/page-2.md)
     * [kprobe](linux/kernel/ebpf/kprobe.md)
