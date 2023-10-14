@@ -44,6 +44,7 @@
 
 ## 技能
 
+* [ubuntu新装软件](ji-neng/ubuntu-xin-zhuang-ruan-jian.md)
 * [遇到的一些有趣的DIY](ji-neng/yu-dao-de-yi-xie-you-qu-de-diy.md)
 * [Markdown模板](ji-neng/markdown-mo-ban.md)
 * [git](ji-neng/git.md)
