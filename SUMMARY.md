@@ -30,6 +30,7 @@
       * [网络](linux/yun-ji-suan/rong-qi/k8s/wang-luo.md)
       * [存储](linux/yun-ji-suan/rong-qi/k8s/cun-chu.md)
       * [调度](linux/yun-ji-suan/rong-qi/k8s/tiao-du.md)
+  * [音视频](linux/yun-ji-suan/yin-shi-pin.md)
 
 ## database
 
