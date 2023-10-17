@@ -45,7 +45,9 @@
 
 ## 技能
 
-* [ubuntu新装软件](ji-neng/ubuntu-xin-zhuang-ruan-jian.md)
+* [Linux发行版使用](ji-neng/linux-fa-hang-ban-shi-yong/README.md)
+  * [ubuntu新装软件](ji-neng/linux-fa-hang-ban-shi-yong/ubuntu-xin-zhuang-ruan-jian.md)
+  * [CVE漏洞修复](ji-neng/linux-fa-hang-ban-shi-yong/cve-lou-dong-xiu-fu.md)
 * [遇到的一些有趣的DIY](ji-neng/yu-dao-de-yi-xie-you-qu-de-diy.md)
 * [Markdown模板](ji-neng/markdown-mo-ban.md)
 * [git](ji-neng/git.md)
