@@ -16,7 +16,7 @@
     * [我的空间](linux/kernel/memary/wo-de-kong-jian.md)
   * [storage](linux/kernel/storage/README.md)
     * [Page 2](linux/readme-1/storage/page-2.md)
-    * [Page](linux/readme-1/storage/page.md)
+    * [Linux操作系统上连接并使用iSCSI卷](linux/readme-1/storage/linux-cao-zuo-xi-tong-shang-lian-jie-bing-shi-yong-iscsi-juan.md)
     * [文件系统](linux/kernel/storage/wen-jian-xi-tong/README.md)
       * [ZFS](linux/kernel/storage/wen-jian-xi-tong/zfs.md)
     * [磁盘disk](linux/kernel/storage/ci-pan-disk.md)
