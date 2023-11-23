@@ -76,6 +76,16 @@
 
     由于iSCSI 协议限制，请勿将一个iSCSI卷挂载到多个Linux客户端。
 
+
+
+### 扫描卷
+
+挂载完之后可能不能立刻查看到，执行一次扫描
+
+```bash
+iscsiadm -m session --rescan
+```
+
 ### 查看卷 <a href="#title-p76-tqu-nsl" id="title-p76-tqu-nsl"></a>
 
 1. 执行fdisk -l或lsblk命令查看iSCSI卷。
