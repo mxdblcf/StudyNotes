@@ -15,6 +15,8 @@
   * [memory](linux/kernel/memary/README.md)
     * [我的空间](linux/kernel/memary/wo-de-kong-jian.md)
   * [storage](linux/kernel/storage/README.md)
+    * [Page 2](linux/readme-1/storage/page-2.md)
+    * [Page](linux/readme-1/storage/page.md)
     * [文件系统](linux/kernel/storage/wen-jian-xi-tong/README.md)
       * [ZFS](linux/kernel/storage/wen-jian-xi-tong/zfs.md)
     * [磁盘disk](linux/kernel/storage/ci-pan-disk.md)
